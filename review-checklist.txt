@@ -1,0 +1,3 @@
+Review notes for this repository.
+- Keep main clean and pushed.
+- Open a pull request for every change.
